@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/rel_lay_login"
+    tools:context=".LoginActivity">
+    <ImageView
+        android:visibility="visible"
+        android:id="@+id/logo_login"
+        android:src="@drawable/logo"
+        android:layout_margin="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_width="200dp"
+        android:layout_height="200dp"/>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/txtAppName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logo_login"
+        android:layout_centerHorizontal="true"
+        android:text="InCovid"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        tools:visibility="visible" />
+    <TextView
+        android:layout_marginTop="10dp"
+        android:visibility="gone"
+        android:id="@+id/Logging_you_in"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logo_login"
+        android:layout_centerHorizontal="true"
+        android:text="@string/logging_you_in"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/just_a_moment"
+        android:visibility="gone"
+        android:layout_below="@id/Logging_you_in"
+        android:layout_centerHorizontal="true"
+        android:text="@string/just_a_moment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <ProgressBar
+        android:visibility="gone"
+        android:id="@+id/pbar_login"
+        android:layout_centerInParent="true"
+        android:layout_width="50dp"
+        android:layout_height="50dp"/>
+
+    <Button
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        android:id="@+id/btn_try_again_login"
+        android:visibility="gone"
+        android:layout_width="160dp"
+        android:layout_height="60dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/drawable_button_dark"
+        android:text="@string/try_again"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+</RelativeLayout>

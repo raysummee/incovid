@@ -1,0 +1,86 @@
+{
+	"redzone": [
+			{
+			"ID":217,
+			"PlaceName": "Game Village",
+			"Lat": 26.109584, 
+			"Lon": 91.788147,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":218,
+			"PlaceName": "CDA quarter, Satgaon",
+			"Lat": 26.161946, 
+			"Lon": 91.835005,
+			"Desc": "No desec",
+			"Radius": 100
+			},
+			{
+			"ID":219,
+			"PlaceName": "Subham Buildwell, Zoo Road",
+			"Lat": 26.161296, 
+			"Lon": 91.781065,
+			"Desc": "No desec",
+			"Radius": 100
+			},
+			{
+			"ID":220,
+			"PlaceName": "Indrapur, Bhangagarh",
+			"Lat": 26.159873, 
+			"Lon": 91.767860,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":221,
+			"PlaceName": "Namghar Path, Hengerabari",
+			"Lat": 26.147338, 
+			"Lon": 91.799101,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":222,
+			"PlaceName": "Regent Paradise, Ghoramora",
+			"Lat": 26.121275, 
+			"Lon": 91.780418,
+			"Desc": "No desec",
+			"Radius": 100
+			},
+			{
+			"ID":223,
+			"PlaceName": "South Sarania, near Isckon temple",
+			"Lat": 26.176730, 
+			"Lon": 91.758977,
+			"Desc": "No desec",
+			"Radius": 100
+			},
+			{
+			"ID":224,
+			"PlaceName": "Ayurvedic Research Centre, Borsajai",
+			"Lat": 26.116135, 
+			"Lon": 91.780379,
+			"Desc": "No desec",
+			"Radius": 100
+			},
+			{
+			"ID":225,
+			"PlaceName": "Near Lakhi Mandir, Bongaon",
+			"Lat": 26.119786, 
+			"Lon": 91.798409,
+			"Desc": "No desec",
+			"Radius": 100
+			},
+			{
+			"ID":226,
+			"PlaceName": "Sankarnagar, Adagudam",
+			"Lat": 26.136030, 
+			"Lon": 91.736320,
+			"Desc": "No desec",
+			"Radius": 100
+			}
+			
+			]
+		
+}

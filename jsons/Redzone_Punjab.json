@@ -1,0 +1,261 @@
+{
+	"redzone": [
+			{
+			"ID":144,
+			"PlaceName": "Katra Dullo",
+			"Lat": 31.6223785,
+			"Lon": 74.8672149,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":145,
+			"PlaceName": "Rani Ka Bagh",
+			"Lat": 31.6388234,
+			"Lon": 74.8550901,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":146,
+			"PlaceName": "Vijay Nagar",
+			"Lat": 31.6451133,
+			"Lon": 74.8910908,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":147,
+			"PlaceName": "Palm Garden",
+			"Lat": 31.6761013,
+			"Lon": 74.8920245,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":148,
+			"PlaceName": "Labour Colony",
+			"Lat": 31.6324398,
+			"Lon": 74.8139648,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":149,
+			"PlaceName": "Fateh Singh Colony",
+			"Lat": 31.6051989,
+			"Lon": 74.8469162,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":150,
+			"PlaceName": "Devi Wali Gali, Bhaktawala",
+			"Lat": 31.613396,
+			"Lon": 74.8704225,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":151,
+			"PlaceName": "Fatahpur",
+			"Lat": 31.5974459,
+			"Lon": 74.8340362,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":152,
+			"PlaceName": "Gopal Nagar",
+			"Lat": 31.6495643,
+			"Lon": 74.88547,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":153,
+			"PlaceName": "Ranjit Pura",
+			"Lat": 31.6304005,
+			"Lon": 74.7928604,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":154,
+			"PlaceName": "Ganda Singh Colony",
+			"Lat": 31.599367,
+			"Lon": 74.8817832,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":155,
+			"PlaceName": "Mallian Village",
+			"Lat": 31.5610021,
+			"Lon": 75.0491712,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":156,
+			"PlaceName": "Chananke",
+			"Lat": 31.6872851,
+			"Lon": 75.1952362,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":157,
+			"PlaceName": "Rose Avenue",
+			"Lat": 31.64407,
+			"Lon": 74.8665476,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":158,
+			"PlaceName": "Katra Bhagian",
+			"Lat": 31.6273884,
+			"Lon": 74.877642,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":159,
+			"PlaceName": "Mehta Chowk",
+			"Lat": 31.6776024,
+			"Lon": 75.2465087,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":160,
+			"PlaceName": "Faizpura",
+			"Lat": 31.6555033,
+			"Lon": 74.869733,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":161,
+			"PlaceName": "Housing Board Colony",
+			"Lat": 31.6632944,
+			"Lon": 74.8653881,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":162,
+			"PlaceName": "Habib Ganj",
+			"Lat": 30.9011279,
+			"Lon": 75.8563614,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":163,
+			"PlaceName": "Prem Nagar",
+			"Lat": 30.9027664,
+			"Lon": 75.8547322,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":164,
+			"PlaceName": "Sirhindi Gate",
+			"Lat": 30.5245989,
+			"Lon": 76.4560316,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":165,
+			"PlaceName": "Uchi Gali",
+			"Lat": 30.9195084,
+			"Lon": 75.8533682,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":166,
+			"PlaceName": "Grewal Chowk",
+			"Lat": 30.5245187,
+			"Lon": 75.8739315,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":167,
+			"PlaceName": "Uttam Factory",
+			"Lat": 30.7505066,
+			"Lon": 74.4987904,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":168,
+			"PlaceName": "Defence Colony",
+			"Lat": 30.5234218,
+			"Lon": 75.8890577,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":169,
+			"PlaceName": "Bhumsi Street",
+			"Lat": 30.5352054,
+			"Lon": 75.870934,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":170,
+			"PlaceName": "Sector 52, Chandigarh",
+			"Lat": 30.7120667,
+			"Lon": 76.7289471,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":171,
+			"PlaceName": "Sector 38, Chandigarh",
+			"Lat": 30.7461002,
+			"Lon": 76.7346362
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":172,
+			"PlaceName": "Dhanas",
+			"Lat": 30.7681277,
+			"Lon": 76.7405546,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":173,
+			"PlaceName": "Manimajra",
+			"Lat": 30.7162093,
+			"Lon": 76.8185918,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":174,
+			"PlaceName": "Sector 30B, Chandigarh",
+			"Lat": 30.7189988,
+			"Lon": 76.790864,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":175,
+			"PlaceName": "Bapu Dham Colony",
+			"Lat": 30.7186429,
+			"Lon": 76.8132326,
+			"Desc": "No desec",
+			"Radius": 200
+			}
+			]
+		
+}

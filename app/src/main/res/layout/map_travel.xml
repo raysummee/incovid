@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <include
+        layout="@layout/activity_maps"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:layout_width="match_parent"/>
+
+    <androidx.cardview.widget.CardView
+        android:animateLayoutChanges="true"
+        android:id="@+id/card_button_section"
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:elevation="20dp"
+        app:cardCornerRadius="2dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ProgressBar
+                android:id="@+id/pbar_nearby"
+                android:visibility="gone"
+                android:indeterminate="true"
+                style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="8dp"/>
+            <LinearLayout
+                android:id="@+id/lay_swipe_sign"
+                android:layout_margin="10dp"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/line_background"
+                android:layout_width="35dp"
+                android:layout_height="3dp"
+                android:orientation="horizontal" />
+
+            <EditText
+                android:id="@+id/edit_search_place_travel"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_below="@id/lay_swipe_sign"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+
+                android:layout_marginRight="20dp"
+                android:background="@drawable/edit_text_drawable_search"
+                android:hint="@string/search_for_a_place"
+                android:inputType="textFilter"
+                android:paddingStart="20dp"
+                android:paddingEnd="50dp" />
+            <ImageButton
+                android:id="@+id/btn_search_map_travel"
+                android:layout_marginTop="5dp"
+                android:foregroundGravity="center"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:src="@drawable/ic_search_black_24dp"
+                android:layout_below="@id/lay_swipe_sign"
+                android:layout_alignEnd="@id/edit_search_place_travel"
+                android:layout_width="40dp"
+                android:layout_height="40dp"/>
+            <TextView
+                android:id="@+id/txt_nearby"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_below="@id/edit_search_place_travel"
+                android:text="@string/nearby"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <androidx.recyclerview.widget.RecyclerView
+                android:layout_marginTop="10dp"
+                android:id="@+id/recycler_nearby_travel"
+                android:layout_below="@id/txt_nearby"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <androidx.recyclerview.widget.RecyclerView
+                android:layout_marginTop="20dp"
+                android:id="@+id/recycler_detailed_view"
+                android:layout_below="@id/recycler_nearby_travel"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/lay_covid_input"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:background="#FFFFFF"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    android:visibility="visible">
+
+        <ImageButton
+            android:id="@+id/close_btn_covid_input"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_margin="10dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:src="@android:drawable/ic_menu_close_clear_cancel" />
+
+        <EditText
+            android:id="@+id/name_covid_input"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/edit_text_drawable_search"
+            android:hint="@string/name"
+            android:padding="10dp" />
+
+        <EditText
+            android:id="@+id/recent_visit_covid_input"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/edit_text_drawable_search"
+            android:hint="@string/recent_visit"
+            android:padding="10dp" />
+
+        <Spinner
+            android:id="@+id/spinner_symptom"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/edit_text_drawable_search"
+            android:entries="@array/symptoms"
+            android:padding="2dp" />
+
+
+        <Button
+            android:id="@+id/btn_submit_symptoms"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_gravity="end"
+            android:layout_margin="10dp"
+            android:textSize="14sp"
+            android:background="@drawable/draw_btn_small"
+            android:text="@string/submit"
+            android:textColor="#000" />
+
+</LinearLayout>

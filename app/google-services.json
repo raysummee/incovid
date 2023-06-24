@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "691543680406",
+    "firebase_url": "https://incovid-8dc11.firebaseio.com",
+    "project_id": "incovid-8dc11",
+    "storage_bucket": "incovid-8dc11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691543680406:android:35da4f630efa7d9ee129b7",
+        "android_client_info": {
+          "package_name": "com.ventricles.incovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691543680406-i6du17lq0q8jcg3rkoumnmmfu2j5q2hr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ventricles.incovid",
+            "certificate_hash": "5b6de2018fa782399d4c1cc5e2551c67b6806916"
+          }
+        },
+        {
+          "client_id": "691543680406-ad4ul7rq8chro3bqs4oqnb471l0dcta7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSU9du7mJlCPOv7lprFZyZnDs9YyRhhkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691543680406-ad4ul7rq8chro3bqs4oqnb471l0dcta7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

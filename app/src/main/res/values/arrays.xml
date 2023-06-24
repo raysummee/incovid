@@ -1,0 +1,28 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+    <string-array name="symptoms">
+        <item>Symptoms</item>
+        <item>fever</item>
+        <item>dry cough</item>
+        <item>tiredness</item>
+        <item>aches and pains</item>
+        <item>sore throat</item>
+        <item>diarhoea</item>
+        <item>conjunctivitis</item>
+        <item>headache</item>
+        <item>loss of taste or smell</item>
+        <item>a eash on skin</item>
+        <item>difficulty breathing or shortness of breath</item>
+        <item>chest pain</item>
+        <item>loss of speech or movement</item>
+    </string-array>
+</resources>

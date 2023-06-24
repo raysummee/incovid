@@ -1,0 +1,22 @@
+{
+	"redzone": [
+			{
+			"ID":330,
+			"PlaceName": "Mangor Hill, Sasmolem",
+			"Lat": 15.391183,
+			"Lon": 73.815351,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":331,
+			"PlaceName": "Ghodemal, Morlem, Satari",
+			"Lat": 15.584546,
+			"Lon": 74.057702,
+			"Desc": "No desec",
+			"Radius": 200
+			}
+			
+			]
+		
+}

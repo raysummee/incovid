@@ -1,0 +1,136 @@
+{
+    "Nagaland": [
+        {
+            "ID": 277,
+            "PlaceName": "Mon Village",
+            "Lat": 26.7331,
+            "Lon": 95.030502,
+            "Desc": "No desec",
+            "Radius": 200
+        },
+        {
+            "ID": 278,
+            "PlaceName": "Kohima",
+            "Lat": 25.6751,
+            "Lon": 94.1086,
+            "Desc": "No desec",
+            "Radius": 200
+        },
+        {
+            "ID": 279,
+            "PlaceName": "Dimapur",
+            "Lat": 25.9091,
+            "Lon": 93.7266,
+            "Desc": "No desec",
+            "Radius": 200
+        }
+    ],
+    "Andaban&Nicobar": [
+        {
+            "ID": 280,
+            "PlaceName": "Port Blair",
+            "Lat": 11.623377,
+            "Lon": 92.726486,
+            "Desc": "No desec",
+            "Radius": 200
+        },
+        {
+            "ID": 281,
+            "PlaceName": "South Andamans",
+            "Lat": 11.7401,
+            "Lon": 92.6586,
+            "Desc": "No desec",
+            "Radius": 200
+        }
+    ],
+    "Jammu&Kashmir": [
+        {
+            "ID": 282,
+            "PlaceName": "Bandipora",
+            "Lat": 34.5052,
+            "Lon": 74.6869,
+            "Desc": "No desec",
+            "Radius": 200
+        },
+        {
+            "ID": 283,
+            "PlaceName": "Shopian",
+            "Lat": 33.7170,
+            "Lon": 74.8361,
+            "Desc": "No desec",
+            "Radius": 200
+        },
+        {
+            "ID": 284,
+            "PlaceName": "Anantnag",
+            "Lat": 33.7311,
+            "Lon":  75.1487,
+            "Desc": "No desec",
+            "Radius": 200
+        },
+        {
+            "ID": 285,
+            "PlaceName": "Srinagar",
+            "Lat": 34.0837,
+            "Lon": 74.7973,
+            "Desc": "No desec",
+            "Radius": 200
+        },
+        {
+            "ID": 286,
+            "PlaceName": "Baramulla",
+            "Lat": 34.1595,
+            "Lon": 74.3587,
+            "Desc": "No desec",
+            "Radius": 200
+        },
+        {
+            "ID": 287,
+            "PlaceName": "Kupwara",
+            "Lat": 34.5262,
+            "Lon": 74.2546,
+            "Desc": "No desec",
+            "Radius": 200
+        },
+        {
+            "ID": 288,
+            "PlaceName": "Ganderbal",
+            "Lat": 34.2165,
+            "Lon": 74.7719,
+            "Desc": "No desec",
+            "Radius": 200
+        },
+        {
+            "ID": 289,
+            "PlaceName": "Jammu",
+            "Lat": 32.7266,
+            "Lon": 74.8570,
+            "Desc": "No desec",
+            "Radius": 200
+        },
+        {
+            "ID": 290,
+            "PlaceName": "Ganderbal",
+            "Lat": 34.2165,
+            "Lon": 74.7719,
+            "Desc": "No desec",
+            "Radius": 200
+        },
+        {
+            "ID": 291,
+            "PlaceName": "Ganderbal",
+            "Lat": 34.2165,
+            "Lon": 74.7719,
+            "Desc": "No desec",
+            "Radius": 200
+        },
+        {
+            "ID": 292,
+            "PlaceName": "Ganderbal",
+            "Lat": 34.2165,
+            "Lon": 74.7719,
+            "Desc": "No desec",
+            "Radius": 200
+        }
+    ]
+}

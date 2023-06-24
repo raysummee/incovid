@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:openDrawer="start"
+    tools:visibility="visible">
+
+
+
+    <include
+        layout="@layout/activity_main_wo_drawer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:fitsSystemWindows="true"
+        android:maxWidth="400dp"
+        app:headerLayout="@layout/nav_header"
+
+        app:itemMaxLines="5"
+        app:menu="@menu/menu_drawer">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/logout_btn_nav"
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:clickable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardElevation="22dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="16dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:gravity="center"
+                    android:text="@string/log_out"
+                    android:textColor="#000" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </com.google.android.material.navigation.NavigationView>
+
+</androidx.drawerlayout.widget.DrawerLayout>

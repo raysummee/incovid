@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    tools:context=".ActivityMigrantLabour">
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:title="Migrant labour"/>
+    <EditText
+        android:id="@+id/editLabourName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_your_name"/>
+    <EditText
+        android:id="@+id/editLabourPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_your_phone_no"/>
+    <Switch
+        android:id="@+id/editLabourisMsf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/i_m_a_migrant_labour"/>
+    <Switch
+        android:id="@+id/editLabourkisMsf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/i_know_someone_who_is_a_migrant_labour"/>
+    <Button
+        android:id="@+id/btnSubmit_labour"
+        android:layout_marginTop="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/submit"/>
+</LinearLayout>

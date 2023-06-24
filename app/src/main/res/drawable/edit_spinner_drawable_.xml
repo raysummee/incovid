@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+<shape>
+    <solid android:color="#13369BDF"/>
+    <corners android:radius="10dp"/>
+</shape>
+    </item>
+    <item>
+        <inset android:drawable="@drawable/ic_keyboard_arrow_down_black_24dp" android:insetRight="0dp"/>
+    </item>
+</layer-list>

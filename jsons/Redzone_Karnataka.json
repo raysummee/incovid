@@ -1,0 +1,405 @@
+{
+	"redzone": [
+			{
+			"ID":227,
+			"PlaceName": "Mahalleshwaram",
+			"Lat": 13.0076967,
+			"Lon": 77.5498078,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":228,
+			"PlaceName": "Mangammanapalya",
+			"Lat": 12.9034479,
+			"Lon": 77.6298732,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":229,
+			"PlaceName": "Jnanbharthinagar",
+			"Lat": 12.9415106,
+			"Lon": 77.4884019,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":230,
+			"PlaceName": "Jagjeevan Ram Nagar",
+			"Lat": 12.9402326,
+			"Lon": 77.5422794,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":231,
+			"PlaceName": "Lakkasandra",
+			"Lat": 12.7936328,
+			"Lon": 77.3226808,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":232,
+			"PlaceName": "Thanisandra",
+			"Lat": 13.0582029,
+			"Lon": 77.6072258,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":233,
+			"PlaceName": "Marappanapalya",
+			"Lat": 13.1007439,
+			"Lon": 77.1362456,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":234,
+			"PlaceName": "Hagadur",
+			"Lat": 12.4159944,
+			"Lon": 77.2195903,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":235,
+			"PlaceName": "Varthur",
+			"Lat": 12.9446224,
+			"Lon": 77.7236188,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":236,
+			"PlaceName": "Ramamurthy Nagar",
+			"Lat": 13.0156785,
+			"Lon": 77.6685706,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":237,
+			"PlaceName": "Agrahara Dasarahalli",
+			"Lat": 13.0156571,
+			"Lon": 77.6598157,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":238,
+			"PlaceName": "Siddapura",
+			"Lat": 13.1318086,
+			"Lon": 77.8517682,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":239,
+			"PlaceName": "Hosahalli",
+			"Lat": 13.1499659,
+			"Lon": 77.6378357,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":240,
+			"PlaceName": "Bommanahalli",
+			"Lat": 12.9006234,
+			"Lon": 77.6125546,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":241,
+			"PlaceName": "Agaram",
+			"Lat": 12.9006234,
+			"Lon": 77.6125546,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":242,
+			"PlaceName": "Kadugodi",
+			"Lat": 12.9926713,
+			"Lon": 77.7532247,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":243,
+			"PlaceName": "Kempegowda",
+			"Lat": 12.9775865,
+			"Lon": 77.5675552,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":244,
+			"PlaceName": "Subash Nagar",
+			"Lat": 12.9775865,
+			"Lon": 77.5675552,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":245,
+			"PlaceName": "Subramanya Nagar",
+			"Lat": 13.0069214,
+			"Lon": 77.5532371,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":246,
+			"PlaceName": "Rayapuram",
+			"Lat": 12.9659235,
+			"Lon": 77.5483306,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":247,
+			"PlaceName": "Azadnagar",
+			"Lat": 12.9560999,
+			"Lon": 77.5494616,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":248,
+			"PlaceName": "Nayandahalli",
+			"Lat": 12.943669,
+			"Lon": 77.5079599,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":249,
+			"PlaceName": "Hoodi",
+			"Lat": 12.943669,
+			"Lon": 77.5079599,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":250,
+			"PlaceName": "Kottigepalya",
+			"Lat": 12.9854729,
+			"Lon": 77.5103793,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":251,
+			"PlaceName": "Horamavu",
+			"Lat": 13.0320944,
+			"Lon": 77.6447587,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":252,
+			"PlaceName": "Marathahalli",
+			"Lat": 12.957997,
+			"Lon": 77.6750114,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":253,
+			"PlaceName": "Puttenahalli",
+			"Lat": 13.1973549,
+			"Lon": 77.4196426,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":254,
+			"PlaceName": "Yelahanka",
+			"Lat": 13.1183531,
+			"Lon": 77.5815544,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":255,
+			"PlaceName": "Arakare",
+			"Lat": 13.1183113,
+			"Lon": 77.5815545,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":256,
+			"PlaceName": "Doddabombassandra",
+			"Lat": 13.1183531,
+			"Lon": 77.5815544,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":257,
+			"PlaceName": "Domlur",
+			"Lat": 12.9629794,
+			"Lon": 77.6268656,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":258,
+			"PlaceName": "HSR Layout",
+			"Lat": 12.9102561,
+			"Lon": 77.6108031,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":259,
+			"PlaceName": "Jayamahal",
+			"Lat": 13.0044804,
+			"Lon": 77.5842012,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":260,
+			"PlaceName": "Visvesvarapuram",
+			"Lat": 12.9544509,
+			"Lon": 77.5721133,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":261,
+			"PlaceName": "Singasandra",
+			"Lat": 12.8803173,
+			"Lon": 77.6382401,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":262,
+			"PlaceName": "Bellanduru",
+			"Lat": 12.9323594,
+			"Lon": 77.6573238,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":263,
+			"PlaceName": "Padarayanapura",
+			"Lat": 12.9628266,
+			"Lon": 77.5433542,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":264,
+			"PlaceName": "Nagavara",
+			"Lat": 13.0396595,
+			"Lon": 77.5960594,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":265,
+			"PlaceName": "S K Garden",
+			"Lat": 13.0045534,
+			"Lon": 77.6042693,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":266,
+			"PlaceName": "Chokkasandra",
+			"Lat": 13.0386635,
+			"Lon": 77.5135028,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":267,
+			"PlaceName": "Yelachennahali",
+			"Lat": 12.900428,
+			"Lon": 77.5661276,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":268,
+			"PlaceName": "Bagalgunte",
+			"Lat": 13.0543133,
+			"Lon": 77.4895947,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":269,
+			"PlaceName": "Chalradipalya",
+			"Lat": 12.9559326,
+			"Lon": 77.5638341,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":270,
+			"PlaceName": "HBR Layout",
+			"Lat": 13.0324778,
+			"Lon": 77.6141984,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":271,
+			"PlaceName": "Gali Anjaneya Temple",
+			"Lat": 12.9716507,
+			"Lon": 77.5215731,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":272,
+			"PlaceName": "Hampi Nagar",
+			"Lat": 12.961359,
+			"Lon": 77.5286204,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":273,
+			"PlaceName": "Muneshwara Nagar",
+			"Lat": 12.8951294,
+			"Lon": 77.6331947,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":274,
+			"PlaceName": "Dharamaraya Swami Nagara",
+			"Lat": 12.9659885,
+			"Lon": 77.5801651,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":275,
+			"PlaceName": "Sudamanagar",
+			"Lat": 12.9573184,
+			"Lon": 77.5785122,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":276,
+			"PlaceName": "Gandhi Nagar",
+			"Lat": 12.9804049,
+			"Lon": 77.5703082,
+			"Desc": "No desec",
+			"Radius": 200
+			}
+			]
+		
+}

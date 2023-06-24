@@ -1,0 +1,334 @@
+{
+	"redzone": [
+			{
+			"ID":176,
+			"PlaceName": "Hauz Rani Road",
+			"Lat": 28.529786, 
+			"Lon": 77.213224,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":177,
+			"PlaceName": "Gali No 6, Sangam Vihar",
+			"Lat": 28.498965, 
+			"Lon": 77.236120,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":178,
+			"PlaceName": "Gali No 5, Sangam Vihar",
+			"Lat": 28.4885319,
+			"Lon": 77.228155,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+
+			"ID":179,
+            "PlaceName": "Gali No 7, Sangam Vihar",
+            "Lat": 28.4959479,
+            "Lon": 77.2325708,
+            "Desc": "No desec",
+            "Radius": 200
+			},
+			{
+			"ID":180,
+			"PlaceName": "Deoli Extension",
+			"Lat": 28.5024753,
+			"Lon": 77.2258723,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":181,
+			"PlaceName": "Shahajahanabad Apartments",
+			"Lat": 28.5942377,
+			"Lon": 77.0509879,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":182,
+			"PlaceName": "Dhinpur Village",
+			"Lat": 28.5911169, 
+			"Lon": 76.9935659, 
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":183,
+			"PlaceName": "Gali No.5, Bengali Gali",
+			"Lat": 28.5961583,
+			"Lon": 77.0828393,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":184,
+			"PlaceName": "Gali No.5A, Bengali Gali",
+			"Lat": 28.5967404,
+			"Lon": 77.079595,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":185,
+			"PlaceName": "Markaz Masjid",
+			"Lat": 28.5917967, 
+			"Lon": 77.2411838,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":186,
+			"PlaceName": "Nizamuddin Basti",
+			"Lat": 28.5917301,
+			"Lon": 77.2384679,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":187,
+			"PlaceName": "Nizamuddin West",
+			"Lat": 28.5893984,
+			"Lon": 77.2395382,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":188,
+			"PlaceName": "Zakir Nagar",
+			"Lat": 28.5686196,
+			"Lon": 77.2745801,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":189,
+			"PlaceName": "Khadda Colony",
+			"Lat": 28.5114487,
+			"Lon": 77.3268683,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":190,
+			"PlaceName": "Madanpur Khadar",
+			"Lat": 28.5313845,
+			"Lon": 77.2984465
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":191,
+			"PlaceName": "H Block, Abu Fazal Enclave",
+			"Lat": 28.5528564,
+			"Lon": 77.2922803,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":192,
+			"PlaceName": "E Block, Abu Fazal Enclave",
+			"Lat": 28.5570394,
+			"Lon": 77.292718,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":193,
+			"PlaceName": "East of Kailash",
+			"Lat": 28.5573177,
+			"Lon": 77.2333571,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":194,
+			"PlaceName": "B Block, Jhangiripuri",
+			"Lat": 28.727389,
+			"Lon": 77.1683097,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":195,
+			"PlaceName": "C Block, Jhangiripuri",
+			"Lat": 28.7297885,
+			"Lon": 77.1699123,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":196,
+			"PlaceName": "Kalyanpuri",
+			"Lat": 28.6178157,
+			"Lon": 77.3050336,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":197,
+			"PlaceName": "Vasundhara Enclave",
+			"Lat": 28.6017248,
+			"Lon": 77.3090522,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":198,
+			"PlaceName": "Khichripur",
+			"Lat": 28.6209605,
+			"Lon": 77.306214,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":199,
+			"PlaceName": "Pandav Nagar",
+			"Lat": 28.6104393,
+			"Lon": 77.2533472,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":200,
+			"PlaceName": "Vardhaman Apartments",
+			"Lat": 28.5970524,
+			"Lon": 77.293321,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":201,
+			"PlaceName": "Mayurdhwaj Apartments",
+			"Lat": 28.6693171,
+			"Lon": 77.2877045,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":202,
+			"PlaceName": "Gali No 4, Krishan Kunj Extension",
+			"Lat": 28.6390248,
+			"Lon": 77.2734707,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":203,
+			"PlaceName": "Gali No 5, West Vinod Nagar",
+			"Lat": 28.6232577,
+			"Lon": 77.2921321,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":204,
+			"PlaceName": "GTB Enclave",
+			"Lat": 28.6849456,
+			"Lon": 77.2997402,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":205,
+			"PlaceName": "Dilshad Garden",
+			"Lat": 28.6872234,
+			"Lon": 77.2983008,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":206,
+			"PlaceName": "Seemapuri",
+			"Lat": 28.6893444,
+			"Lon": 77.3237241,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":207,
+			"PlaceName": "Jhilmil Colony",
+			"Lat": 28.6711322,
+			"Lon": 77.3043172,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":208,
+			"PlaceName": "Shashtri Market",
+			"Lat": 28.6713799,
+			"Lon": 77.1729835,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":209,
+			"PlaceName": "Bengali Market",
+			"Lat": 28.6290315,
+			"Lon": 77.2308343,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":210,
+			"PlaceName": "Sadar Bazaar",
+			"Lat": 28.6549894,
+			"Lon": 77.202268,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":211,
+			"PlaceName": "Chandni Mahal",
+			"Lat": 28.6428224,
+			"Lon": 77.2357224,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":212,
+			"PlaceName": "Nabi Karim",
+			"Lat": 28.651919,
+			"Lon": 77.2093697,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":213,
+			"PlaceName": "Capital Greens",
+			"Lat": 28.6658896,
+			"Lon": 77.1489191,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":214,
+			"PlaceName": "Paschim Vihar",
+			"Lat": 28.6658896,
+			"Lon": 77.1489191,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":215,
+			"PlaceName": "Mansarover Garden",
+			"Lat": 28.6379064,
+			"Lon": 77.0931437,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":216,
+			"PlaceName": "Ashok Nagar",
+			"Lat": 28.6379064,
+			"Lon": 77.0931437,
+			"Desc": "No desec",
+			"Radius": 200
+			}
+			]
+		
+}

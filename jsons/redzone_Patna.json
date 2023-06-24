@@ -1,0 +1,102 @@
+{
+	"redzone": [
+			{
+			"ID":32,
+			"PlaceName": "Sultanganj",
+			"Lat": 25.2421723,
+			"Lon": 86.7262879,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":33,
+			"PlaceName": "Khajpura",
+			"Lat": 24.9383124,
+			"Lon": 85.6371517,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":34,
+			"PlaceName": "Mansapuri",
+			"Lat": 26.4026692,
+			"Lon": 86.4935487,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":35,
+			"PlaceName": "Adarsh Colony Road No. 5",
+			"Lat": 25.6210933,
+			"Lon": 85.0970449,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":36,
+			"PlaceName": "Panditji Gali",
+			"Lat": 25.6457474, 
+			"Lon": 85.0640676,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":37,
+			"PlaceName": "BPSC Office Slums",
+			"Lat": 25.610875, 
+			"Lon": 85.133794, 
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":38,
+			"PlaceName": "Birla Colony",
+			"Lat": 25.5808307,
+			"Lon": 85.0651171,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":39,
+			"PlaceName": "Road 1E",
+			"Lat": 25.638131,
+			"Lon": 85.088232,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":40,
+			"PlaceName": "Meethakuan Road",
+			"Lat": 25.590047, 
+			"Lon": 85.069173,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":41,
+			"PlaceName": "Naubatpur Village",
+			"Lat": 25.5013231,
+			"Lon": 84.9581548,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":42,
+			"PlaceName": "Paliganj",
+			"Lat": 25.3278897,
+			"Lon": 84.7935104,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":43,
+            "PlaceName": "Ashok Tower",
+            "Lat": 25.6080472,
+            "Lon": 85.0849994,
+            "Desc": "No desec",
+            "Radius": 200
+			}
+			
+			]
+		
+}

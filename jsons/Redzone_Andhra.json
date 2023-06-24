@@ -1,0 +1,301 @@
+{
+	"redzone": [
+			{
+			"ID":293,
+			"PlaceName": "RTC Colony",
+			"Lat": 16.2991339,
+			"Lon": 80.4627279,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":294,
+			"PlaceName": "Israelpeta",
+			"Lat": 16.3021835,
+			"Lon": 80.4303767,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":295,
+			"PlaceName": "Kummari Bazaar",
+			"Lat": 16.2945949,
+			"Lon": 80.4569994,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":296,
+			"PlaceName": "Anandapeta",
+			"Lat": 16.2844538,
+			"Lon": 80.4532294,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":297,
+			"PlaceName": "Yanadi Colony",
+			"Lat": 16.2279091,
+			"Lon": 80.6374985,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":298,
+			"PlaceName": "Butchaiah Thota",
+			"Lat": 16.3062727,
+			"Lon": 80.4491301,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":299,
+			"PlaceName": "Ramireddy Thota",
+			"Lat": 16.3012505,
+			"Lon": 80.4487697,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":300,
+			"PlaceName": "Gunturuvari Thota",
+			"Lat": 18.9355365,
+			"Lon": 72.8173892,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":301,
+			"PlaceName": "Sangadigunta",
+			"Lat": 16.2851376,
+			"Lon": 80.4448906,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":302,
+			"PlaceName": "Ahmednagar",
+			"Lat": 16.291811,
+			"Lon": 80.4491784,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":303,
+			"PlaceName": "China Bazaar",
+			"Lat": 16.3081687,
+			"Lon": 80.4170298,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":304,
+			"PlaceName": "Bhavaji Nagar",
+			"Lat": 16.2746432,
+			"Lon": 80.4535073,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":305,
+			"PlaceName": "Kankaragunta",
+			"Lat": 16.3007119,
+			"Lon": 80.4264706,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":306,
+			"PlaceName": "Srinivasarao Thota",
+			"Lat": 16.2889953,
+			"Lon": 80.429103,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":307,
+			"PlaceName": "Sai Nagar",
+			"Lat": 16.2889953,
+			"Lon": 80.429103,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":308,
+			"PlaceName": "Reddypalem",
+			"Lat": 16.3004102,
+			"Lon": 79.9248504,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":309,
+			"PlaceName": "Tarakarama Nagar",
+			"Lat": 16.3311719,
+			"Lon": 80.411938,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":310,
+			"PlaceName": "Tadepalli",
+			"Lat": 16.4775907,
+			"Lon": 80.5699855,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":311,
+			"PlaceName": "Dachepalle",
+			"Lat": 16.5937596,
+			"Lon": 79.7136852,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":312,
+			"PlaceName": "Koppunur",
+			"Lat": 16.4869131,
+			"Lon": 79.3263316,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":313,
+			"PlaceName": "Macherla MPL",
+			"Lat": 16.4722024,
+			"Lon": 79.4298917,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":314,
+			"PlaceName": "Mangalgiri MPL",
+			"Lat": 16.4239357,
+			"Lon": 80.5811159,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":315,
+			"PlaceName": "Piduguralla Railway Station Road",
+			"Lat": 16.4782629,
+			"Lon": 79.8745805,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":316,
+			"PlaceName": "Tenali MPL",
+			"Lat": 16.2383563,
+			"Lon": 80.6433123,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":317,
+			"PlaceName": "Kondramutla",
+			"Lat": 16.1153118,
+			"Lon": 79.7489913,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":318,
+			"PlaceName": "Chagallu",
+			"Lat": 16.371273,
+			"Lon": 80.023486,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":319,
+			"PlaceName": "Uppalapadu",
+			"Lat": 16.371273,
+			"Lon": 80.023486,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":320,
+			"PlaceName": "Ponnur MPL",
+			"Lat": 16.0793579,
+			"Lon": 80.5470818,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":321,
+			"PlaceName": "Chilakaluripeta MPL",
+			"Lat": 16.0950252,
+			"Lon": 80.1644148,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":322,
+			"PlaceName": "Sri Ram Nagar",
+			"Lat": 18.9355365,
+			"Lon": 72.8173892,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":323,
+			"PlaceName": "Dhulipalla",
+			"Lat": 16.4138154,
+			"Lon": 80.0819742,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":324,
+			"PlaceName": "Vengalayapalem",
+			"Lat": 16.2877078,
+			"Lon": 80.3667765,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":325,
+			"PlaceName": "Narasaropeta Rural",
+			"Lat": 16.1788598,
+			"Lon": 80.0839752,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":326,
+			"PlaceName": "Narasaropeta Urban",
+			"Lat": 16.2331148,
+			"Lon": 80.0154,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":327,
+			"PlaceName": "Eluru Road",
+			"Lat": 16.5182755,
+			"Lon": 80.6462504,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":328,
+			"PlaceName": "Gundala Hill",
+			"Lat": 16.5061743,
+			"Lon": 80.6458266,
+			"Desc": "No desec",
+			"Radius": 200
+			},
+			{
+			"ID":329,
+			"PlaceName": "BRTS Road",
+			"Lat": 16.5222447,
+			"Lon": 80.6411518,
+			"Desc": "No desec",
+			"Radius": 200
+			}
+			]
+		
+}
